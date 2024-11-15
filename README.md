@@ -35,7 +35,7 @@ When you hover over the bars, you'll see the number of villagers in each species
 
 I also took a look at the gender distribution of the villagers. While I initially thought there would be more female villagers, it turns out there are more male villagers in total.
 
-![Gender Distribution Chart](link-to-gender-distribution-image.png)
+![Villager Species and Personality Chart](visuals/villager-chart.png)
 
 ---
 
@@ -45,7 +45,7 @@ I attempted to create a “Build Your Outfit” dashboard where players can sele
 
 Although I wasn’t able to fully implement the functionality to show the image and filter the cost at the same time, the concept is there, and I hope to improve it in the future!
 
-![Build Your Outfit](link-to-outfit-dashboard-image.png)
+![Build Your Outfit](visuals/build-your-outfit.png)
 
 ---
 

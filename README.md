@@ -25,8 +25,6 @@ Here are some of the key visual insights I created based on **Animal Crossing: N
 
 Animal Crossing features a diverse set of villagers, with 391 unique characters. I’ve created a bar chart that showcases the most popular species and their associated personalities. As you can see, **cats, rabbits, and squirrels** are the top three species, with **frogs** tying for third place.
 
-![Villager Species and Personality Chart](link-to-your-chart-image.png)
-
 When you hover over the bars, you'll see the number of villagers in each species and personality, as well as their birthdays.
 
 ---

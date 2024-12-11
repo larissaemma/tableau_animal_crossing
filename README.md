@@ -45,13 +45,6 @@ Although I wasn’t able to fully implement the functionality to show the image 
 
 ![Build Your Outfit](Visuals/build-your-outfit.png)
 
----
-
-## How to Run This Project
-
-1. Clone the repository to your local machine.
-2. Open the project files in your browser or your preferred development environment.
-3. The visualizations will render as part of the HTML files.
 
 ---
 
